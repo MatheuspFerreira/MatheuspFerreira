@@ -1,14 +1,11 @@
 
+## 😃 Hello!
+ My name is Matheus Ferreira I'm a 32 year old software engineer working for Inspell Software as Full Stack Developer.
 
-😃 Hello my name is Matheus Ferreira I'm a 32 year old software engineer working for Inspell Software as Full Stack Developer.
-<hr/>
-
-
-🛰️ tech radar<br/>
+## 🛰️ tech radar<br/>
 I still study a lot on JS, TS, React, HTML5, CSS,Node.js, php, laravel, AWS and all techs around everyday to improve my skills.
-<hr/>
 
-:octocat: Stats<br/>
+## :octocat: Stats<br/>
 <center>
 <table>
   <tr>
