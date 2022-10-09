@@ -1,11 +1,23 @@
-## Hi, my name is Matheus Ferreira and a I'm Full Stack Developer!!!
 
 
-<div align="center">
-  <a href="https://github.com/MatheuspFerreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheuspFerreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheuspFerreira&layout=compact&langs_count=7&theme=dark"/>
-  
+😃 Hello my name is Matheus Ferreira I'm a 32 year old software engineer working for Inspell Software as Full Stack Developer.
+<hr/>
+
+
+🛰️ tech radar<br/>
+I still study a lot on JS, TS, React, HTML5, CSS,Node.js, php, laravel, AWS and all techs around everyday to improve my skills.
+<hr/>
+
+:octocat: Stats<br/>
+<center>
+<table>
+  <tr>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=matheuspferreira&show_icons=true ></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspferreira&show_icons=true&layout=compact></td>
+  </tr>  
+</table>
+</center>
+ <hr/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus Ferreira - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
