@@ -14,7 +14,7 @@ I still study a lot on JS, TS, React, HTML5, CSS,Node.js, php, laravel, AWS and 
   </tr>  
 </table>
 </center>
- <hr/>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus Ferreira - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
