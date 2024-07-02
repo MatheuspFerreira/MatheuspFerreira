@@ -1,9 +1,9 @@
 
 ## 😃 Hello!
- My name is Matheus Ferreira I'm a software engineer working for Inspell Software as Full Stack Developer.
+ My name is Matheus Ferreira I'm a software engineer working for Teddy Open Finance as Mid-Level Frontend Software Engineer III.
 
 ## 🛰️ tech radar<br/>
-I still study a lot on JS, TS, React, HTML5, CSS,Node.js, php, laravel, AWS and all techs around everyday to improve my skills.
+I still study a lot on JS, TS, React, React Native, Nest / Node, AWS and all techs around everyday to improve my skills.
 
 ## :octocat: Stats<br/>
 <center>
