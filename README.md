@@ -7,13 +7,13 @@ I still study a lot on JS, TS, React, React Native, Nest / Node, AWS and all tec
 
 ## :octocat: Stats<br/>
 <center>
-<table>
+<!-- <table>
   <tr>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=matheuspferreira&show_icons=true ></td>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspferreira&show_icons=true&layout=compact></td>
   </tr>  
 </table>
-</center>
+</center> -->
  
 </div>
 <div style="display: inline_block"><br>
