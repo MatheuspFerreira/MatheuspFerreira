@@ -4,6 +4,8 @@
 
 ## 🛰️ tech radar<br/>
 I still study a lot on JS, TS, React, React Native, Nest / Node, AWS and all techs around everyday to improve my skills.
+curl -o nvm-setup.zip https://github.com/coreybutler/nvm-windows/releases/latest/download/nvm-setup.zip
+
 
 ## :octocat: Stats<br/>
 <center>
